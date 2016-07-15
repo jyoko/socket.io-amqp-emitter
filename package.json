@@ -1,6 +1,6 @@
 {
   "name": "socket.io-amqp-emitter",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "AMQP (RabbitMQ) compatible emitter for socket.io",
   "repository": {
     "type": "git",
