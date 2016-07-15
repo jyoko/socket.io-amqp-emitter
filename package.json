@@ -1,0 +1,26 @@
+{
+  "name": "socket.io-amqp-emitter",
+  "version": "0.5.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jyoko/socket.io-amqp-emitter"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "amqplib": "^0.4.2",
+    "debug": "2.2.0",
+    "has-binary": "0.1.7",
+    "msgpack-js": "0.3.0",
+    "socket.io-parser": "2.2.6"
+  },
+  "devDependencies": {
+    "mocha": "2.3.4",
+    "expect.js": "0.3.1",
+    "socket.io": "1.3.7",
+    "socket.io-client": "1.3.7",
+    "socket.io-redis": "0.2.0"
+  }
+}
